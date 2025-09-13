@@ -40,7 +40,8 @@
     "postcss": "^8.5.3",
     "rollup": "^4.11.0",
     "tailwindcss": "^3.4.17",
+    "terser": "^5.44.0",
     "vite": "^5.2.8"
   },
-  "homepage":"https://developer-akash9.github.io/Akash-Portfolio// "
+  "homepage": "https://developer-akash9.github.io/Akash-Portfolio// "
 }
