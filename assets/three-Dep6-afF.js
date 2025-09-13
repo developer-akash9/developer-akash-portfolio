@@ -1,4 +1,4 @@
-import{r as e,g as t,R as n,j as i}from"./framer-CQ_0RFyt.js";import{c as r}from"./react-vendor-B5sL649w.js";function s(){return s=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var i in n)({}).hasOwnProperty.call(n,i)&&(e[i]=n[i])}return e},s.apply(null,arguments)
+import{r as e,g as t,R as n,j as i}from"./framer-CQ_0RFyt.js";import{c as r}from"./react-vendor-C8J-F5As.js";function s(){return s=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var i in n)({}).hasOwnProperty.call(n,i)&&(e[i]=n[i])}return e},s.apply(null,arguments)
 /**
  * @license
  * Copyright 2010-2025 Three.js Authors
